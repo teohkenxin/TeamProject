@@ -2,8 +2,8 @@
 /**
  * Write a description of interface Shape here.
  *
- * @author (hey bra = yoooo bra)
- * @version (a version number or a date)
+ * @author (스피겔 크릴 2017605038)
+ * @version (2019/09/02)
  */
 public interface Shape
 {
