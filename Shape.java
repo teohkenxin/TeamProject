@@ -2,7 +2,7 @@
 /**
  * Write a description of interface Shape here.
  *
- * @author (hey bra)
+ * @author (hey bra = yoooo bra)
  * @version (a version number or a date)
  */
 public interface Shape
