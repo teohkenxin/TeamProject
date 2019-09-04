@@ -12,9 +12,10 @@ public class Circle implements Shape
         this.radius = r;
     }
     public double getArea(){
-        // hey
+        double area = PI * (this.radius * this.radius);
+        return area;
     }
     public void draw(){
-        // hey
+        System.out.println("반지름이 " + this.radius + "인 원입니다.");
     }
 }
