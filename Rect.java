@@ -2,8 +2,8 @@
 /**
  * Write a description of class Rect here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (스피겔 크릴 2017605038, 테오 켄신 2018771052)
+ * @version (2019/09/02)
  */
 public class Rect implements Shape
 {

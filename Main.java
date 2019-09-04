@@ -2,8 +2,9 @@
 /**
  * The main method for calculating the area of shapes.
  *
- * @author (스피겔크릴 2017605038)
- * @version (2019/09/04)
+ * @author (스피겔 크릴 2017605038, 테오 켄신 2018771052)
+ * @version (2019/09/02)
+
  */
 public class Main
 {
