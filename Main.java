@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Main here.
+ * The main method for calculating the area of shapes.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (스피겔크릴 2017605038)
+ * @version (2019/09/04)
  */
 public class Main
 {
