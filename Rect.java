@@ -1,4 +1,3 @@
-
 /**
  * Shape에서 상속받은 추상메소드를 오버라이딩한 사각형 클래스 
  *
@@ -9,7 +8,8 @@ public class Rect implements Shape
 {
     public int x;
     public int y;
-
+    
+    
     public Rect(int x, int y){
         this.x = x;
         this.y = y;
@@ -23,4 +23,5 @@ public class Rect implements Shape
     public void draw(){
         System.out.println(this.x + "x" + this.y + " 크기의 사각형입니다.");
     }
+    
 }
