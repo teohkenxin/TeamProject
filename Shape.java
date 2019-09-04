@@ -1,6 +1,6 @@
 
 /**
- * Write a description of interface Shape here.
+ * 상수와 추상메소드를 가지고있는 인터페이스입니다.
  *
  * @author (스피겔 크릴 2017605038, 테오 켄신 2018771052)
  * @version (2019/09/02)

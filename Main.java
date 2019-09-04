@@ -1,6 +1,6 @@
 
 /**
- * The main method for calculating the area of shapes.
+ * Circle, Oval, Rect 클래스로부터 객체를 만들어서 객체들의 면적을 계산하는 메인 클래스.
  *
  * @author (스피겔 크릴 2017605038, 테오 켄신 2018771052)
  * @version (2019/09/02)
